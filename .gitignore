@@ -1,0 +1,2 @@
+# Project exclude paths
+/Heroes-SpringWebflux-API-master/livecoding/${project.build.directory}/classes/
